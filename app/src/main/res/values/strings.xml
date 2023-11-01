@@ -16,4 +16,14 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <string name="contato_titulo">Novo Contato</string>
+    <string name="contato_nome"> Nome:</string>
+    <string name="contato_sobrenome"> Sobrenome:</string>
+    <string name="contato_empresa"> Empresa:</string>
+    <string name="contato_numero"> Número:</string>
+    <string name="contato_email"> E-mail:</string>
+    <string name="contato_aniversario"> Aniversário:</string>
+    <string name="contato_endereco"> Endereço:</string>
+    <string name="contato_add">Adicionar Contato</string>
 </resources>
