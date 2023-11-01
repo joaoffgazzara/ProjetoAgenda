@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjetoAgenda</string>
+    <string name="bem_vindo">Bem-Vindo</string>
+    <string name="email_hind">Email:</string>
+    <string name="senha_hind">Senha:</string>
+    <string name="button_login">Login</string>
+    <string name="button_registro">Registrar-se</string>
+
+    <string name="registrar">Registrar-se</string>
+    <string name="nome">Nome:</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="email_registro">Email:</string>
+    <string name="senha_registro">Senha: </string>
+    <string name="button_registrar">Registrar</string>
+</resources>
