@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ProjetoAgenda"
         tools:targetApi="31">
         <activity
+            android:name=".ContatoPrincipal"
+            android:exported="false" />
+        <activity
             android:name=".ContatoTelas"
             android:exported="false" />
         <activity

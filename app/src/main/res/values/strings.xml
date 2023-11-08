@@ -26,4 +26,6 @@
     <string name="contato_aniversario"> Aniversário:</string>
     <string name="contato_endereco"> Endereço:</string>
     <string name="contato_add">Adicionar Contato</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
